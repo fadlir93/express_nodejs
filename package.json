@@ -1,0 +1,17 @@
+{
+  "name": "express_project",
+  "version": "1.0.0",
+  "description": "Simple Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fadli Ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "nodemailer": "*",
+    "pug": "^2.0.3"
+  }
+}
